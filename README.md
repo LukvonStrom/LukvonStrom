@@ -39,7 +39,7 @@ If you want to reach out for business inquires use my aforementioned LinkedIn in
 My Bachelorthesis, where I construct referencearchitectures to process time-series data in AWS.
 
 - [the-future-of-benchmarking/proof-of-concept](https://github.com/the-future-of-benchmarking/proof-of-concept)    
-Monorepo for the desing-science research iterations used to build a POC for Benchmarking via an ethereum smart contract/Dapp.
+Monorepo for the desing-science research iterations used to build a POC for Benchmarking via a ethereum smart contract/Dapp.
 
 - [Team-Obisidan/Biases-im-Machine-Learning](https://github.com/Team-Obisidan/Biases-im-Machine-Learning)   
 Interactive scientific poster [implemented as React.js app] in German, showcasing possible biases in Machine learning and remediation possibilities.
