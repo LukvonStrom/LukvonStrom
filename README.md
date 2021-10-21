@@ -59,3 +59,6 @@ Part of an assignment in the distributed systems module.
 - [LukvonStrom/EscapeRoomGadget](https://github.com/LukvonStrom/EscapeRoomGadget)     
 POC demonstrating a standalone Java Swing App communicating with a Serverless Backend [Lambda & DynamoDB].     
 This POC is thought to aid a "networking escape room", where participants need to communicate with the GUI via an exposed Socket.io Server.  
+
+#### Top languages
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LukvonStrom&show_icons=true&locale=en&layout=compact&bg_color=100,4ca1af,c4e0e5&title_color=fff&text_color=fff" alt="LukvonStrom" /></p>
