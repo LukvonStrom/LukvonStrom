@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Lukas.  
 I dedicate most of my professional time to working with the (AWS) cloud technologies.  
-I'm espescially focused on all things serverless.  
+I'm especially focused on all things serverless.  
 
 <!--
 **LukvonStrom/LukvonStrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ But let's talk about literally anything else too, just reach out! :)
 - [Twitter (@LukvonStrom)](https://twitter.com/LukvonStrom)  
 - [My Homepage](https://fruntke.tech)
 
-Please do *not* send me unsolicited email messages or add me to mailers without explicit opt-in from me please.  
+Please do *not* send me unsolicited email messages or add me to mailers without explicit opt-in from me.  
 If you want to reach out for business inquires use my aforementioned LinkedIn instead.  
 
 
