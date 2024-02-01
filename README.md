@@ -1,7 +1,6 @@
 ### Hi there 👋
 My name is Lukas.  
-I dedicate most of my professional time to working with the (AWS) cloud technologies.  
-I'm especially focused on all things serverless.  
+I am a passionate Software Architect, FullStack Developer and DevOps Wizard.  
 
 <!--
 **LukvonStrom/LukvonStrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
