@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 -->
 
 #### 💬 Ask me about
-- EcmaScript and TypeScript
 - AWS Cloud
+- Backstage.io
+- EcmaScript and TypeScript
+- Serverless Computing
+- Software Architecture
 
 But let's talk about literally anything else too, just reach out! :)
 
@@ -39,26 +42,10 @@ If you want to reach out for business inquires use my aforementioned LinkedIn in
 My Bachelorthesis, where I construct referencearchitectures to process time-series data in AWS.
 
 - [the-future-of-benchmarking/proof-of-concept](https://github.com/the-future-of-benchmarking/proof-of-concept)    
-Monorepo for the desing-science research iterations used to build a POC for Benchmarking via a ethereum smart contract/Dapp.
+POC for a FullStack app demonstrating business-Benchmarking via a ethereum smart contract/Dapp.
 
 - [Team-Obisidan/Biases-im-Machine-Learning](https://github.com/Team-Obisidan/Biases-im-Machine-Learning)   
 Interactive scientific poster [implemented as React.js app] in German, showcasing possible biases in Machine learning and remediation possibilities.
-
-- [the-corporate-brain/](https://github.com/the-corporate-brain)    
-Organization was used to mock a software project tasked with implementing a next-gen education platform.     
-Contains a backend and frontend POC and architecture documentation [in German].
-
-- [LukvonStrom/cloud-serverless-url-shortener](https://github.com/LukvonStrom/cloud-serverless-url-shortener)    
-Serverless URL shortener implemented with Lambda and S3.     
-Performs CI/CD via Github Actions with utilization of AWS CDK as IaC solution.
-
-- [LukvonStrom/distributed-systems-aws-showcase](https://github.com/LukvonStrom/distributed-systems-aws-showcase)     
-This repo showcases the integration of multiple Message oriented Middlewares [MOMs], namely SNS and SQS with other message producers [DynamoDB streams] and AWS Lambda.     
-Part of an assignment in the distributed systems module.
-
-- [LukvonStrom/EscapeRoomGadget](https://github.com/LukvonStrom/EscapeRoomGadget)     
-POC demonstrating a standalone Java Swing App communicating with a Serverless Backend [Lambda & DynamoDB].     
-This POC is thought to aid a "networking escape room", where participants need to communicate with the GUI via an exposed Socket.io Server.  
 
 #### Top languages
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LukvonStrom&show_icons=true&locale=en&layout=compact&bg_color=100,4ca1af,c4e0e5&title_color=fff&text_color=fff" alt="LukvonStrom" /></p>
