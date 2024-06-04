@@ -28,6 +28,8 @@ Interactive scientific poster [implemented as React.js app] in German, showcasin
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Best practices for using AWS StepFunctions](https://dev.to/lukvonstrom/best-practices-for-using-aws-stepfunctions-2io)
+- [Creating an AWS Private Certificate Root Authority with Lambda and Node.js](https://dev.to/lukvonstrom/creating-an-aws-private-certificate-root-authority-with-lambda-and-node-js-4lee)
 <!-- BLOG-POST-LIST:END -->
 
 
